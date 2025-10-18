@@ -1,3 +1,3 @@
 # github-practice
 
-This line is a change in feature-2.
+This line combines main and feature-2 changes.
